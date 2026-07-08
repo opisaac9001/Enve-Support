@@ -1,4 +1,14 @@
-# Enve Support
+<p align="center">
+  <img src="./assets/enve-ecosystem.png" alt="Enve ecosystem logo" width="260">
+</p>
+
+<h1 align="center">Enve Support</h1>
+
+<p align="center">
+  <a href="https://github.com/opisaac9001/Enve-Support/issues"><img src="https://img.shields.io/github/issues/opisaac9001/Enve-Support?style=for-the-badge&color=F5921A" alt="Open issues"></a>
+  <a href="https://github.com/opisaac9001/Enve-Support/labels/known-issue"><img src="https://img.shields.io/badge/known%20issues-tracked-orange?style=for-the-badge" alt="Known issues tracked"></a>
+  <a href="https://envemedia.com"><img src="https://img.shields.io/badge/envemedia-live-1f2937?style=for-the-badge" alt="Enve Media website"></a>
+</p>
 
 Public support, issue tracking, known issues, and release communication for the Enve app ecosystem.
 
@@ -21,12 +31,12 @@ GitHub is the public source of truth. Discord is the faster day-to-day control s
 
 This support repo currently tracks issues for:
 
-- Enve Book Player for iOS
-- Enve Book Player for Android
-- Enve Music Player for iOS
-- Enve Video Player for iOS
-- Enve Video Player for Android
-- Enve RomM Player for iOS
+- 📚 Enve Book Player for iOS
+- 📖 Enve Book Player for Android
+- 🎵 Enve Music Player for iOS
+- 🎬 Enve Video Player for iOS
+- 📺 Enve Video Player for Android
+- 🎮 Enve RomM Player for iOS
 
 Each public issue is tagged with an app label such as `app:book-ios` or `app:music-ios`.
 
@@ -84,4 +94,3 @@ Internal implementation work may still happen in private app repositories. When 
 
 - Public support repo: [Enve-Support](https://github.com/opisaac9001/Enve-Support)
 - Website: [envemedia.com](https://envemedia.com)
-
