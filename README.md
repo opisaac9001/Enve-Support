@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/opisaac9001/Enve-Support/issues"><img src="https://img.shields.io/github/issues/opisaac9001/Enve-Support?style=for-the-badge&color=F5921A" alt="Open issues"></a>
   <a href="https://github.com/opisaac9001/Enve-Support/labels/known-issue"><img src="https://img.shields.io/badge/known%20issues-tracked-orange?style=for-the-badge" alt="Known issues tracked"></a>
+  <a href="https://discord.gg/Hw4nmXRehb"><img src="https://img.shields.io/badge/discord-join%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://envemedia.com"><img src="https://img.shields.io/badge/envemedia-live-1f2937?style=for-the-badge" alt="Enve Media website"></a>
 </p>
 
@@ -93,4 +94,5 @@ Internal implementation work may still happen in private app repositories. When 
 ## Links
 
 - Public support repo: [Enve-Support](https://github.com/opisaac9001/Enve-Support)
+- Discord: [Join the Enve community](https://discord.gg/Hw4nmXRehb)
 - Website: [envemedia.com](https://envemedia.com)
